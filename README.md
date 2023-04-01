@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiaguinNerd)
 
 
-![Thiago Moreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiaguinNerd&show_icons=true&theme=dark#gh-dark-mode-only)
+![Thiago Moreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiaguinNerd&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 
 <br>
-
-<hr>
 
 ## Tecnologias utilizadas no dia-a-dia
 
