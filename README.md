@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, eu sou o Thiago! ✌️
+## Hi there, I'm Thiago! ✌️
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/767597405117612053)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiaguinNerd)
 
 
-![Thiago Moreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiaguinNerd&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
+![ThiaguinNerd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiaguinNerd&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 
 <br>
 
